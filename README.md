@@ -8,7 +8,7 @@ Development Progress
 🔹 Phase 3: Improve GUI and keyboard shortcuts (Completed ✅)
 🔹 Phase 4: Package as an executable (.exe) (Completed ✅)
 
-# Tech Stack
+## Tech Stack
 Language: Python
 GUI Framework: Tkinter
 Testing & Debugging: Python’s built-in testing tools
@@ -28,7 +28,7 @@ Press Enter to evaluate, Backspace to clear.
 
 # Installation
 1. Clone the repository:
-git clone ..
+git clone https://github.com/MalshaPramodi/Basic-Calculator-using-Python.git
 cd Basic-Calculator-using-Python
 
 2. Run the application:
