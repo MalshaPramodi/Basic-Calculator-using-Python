@@ -36,4 +36,4 @@ python calculator.py
 
 (Optional) Use the executable file (.exe) provided in the repository for direct access.
 
-
+![Alt](Calculator.png)
