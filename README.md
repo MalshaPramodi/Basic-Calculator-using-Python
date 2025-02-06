@@ -8,12 +8,12 @@ Development Progress
 🔹 Phase 3: Improve GUI and keyboard shortcuts (Completed ✅)
 🔹 Phase 4: Package as an executable (.exe) (Completed ✅)
 
-## Tech Stack
+Tech Stack
 Language: Python
 GUI Framework: Tkinter
 Testing & Debugging: Python’s built-in testing tools
 
-## Features
+Features
 ✅ Basic Arithmetic: Addition, subtraction, multiplication, and division
 ✅ Square Function: Calculate the square of a number
 ✅ Square Root Function: Compute the square root
@@ -21,12 +21,12 @@ Testing & Debugging: Python’s built-in testing tools
 ✅ Keyboard Shortcuts: Perform operations using keys (Enter for evaluation, Backspace to clear)
 ✅ Executable File: Run without needing Python installation
 
-## Usage
+Usage
 Open the calculator application.
 Use the on-screen buttons or keyboard inputs to enter calculations.
 Press Enter to evaluate, Backspace to clear.
 
-## Installation
+Installation
 1. Clone the repository:
 git clone https://github.com/MalshaPramodi/Basic-Calculator-using-Python.git
 cd Basic-Calculator-using-Python
@@ -35,3 +35,5 @@ cd Basic-Calculator-using-Python
 python calculator.py
 
 (Optional) Use the executable file (.exe) provided in the repository for direct access.
+
+
